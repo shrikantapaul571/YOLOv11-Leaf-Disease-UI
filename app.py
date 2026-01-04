@@ -14,7 +14,7 @@ st.set_page_config(
 st.title("🌿 YOLOv11-Based Leaf Disease Detection")
 st.markdown(
     """
-    **Research Prototype**  
+    # **Research Prototype**  
     *Transforming Smart Farming using Deep Learning*
     """
 )
@@ -100,5 +100,5 @@ if uploaded_file:
 # -------------------- FOOTER --------------------
 st.divider()
 st.caption(
-    "YOLOv11-based Leaf Disease Detection System | Smart Agriculture Research"
+    "YOLOv11-based Leaf Disease Detection System"
 )
