@@ -14,7 +14,6 @@ st.set_page_config(
 st.title("🌿 YOLOv11-Based Leaf Disease Detection")
 st.markdown(
     """
-    # **Research Prototype**  
     *Transforming Smart Farming using Deep Learning*
     """
 )
